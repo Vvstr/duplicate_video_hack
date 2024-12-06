@@ -1,0 +1,9 @@
+checkpoints/
+__pycache__/
+.ipynb_checkpoints/
+videos/
+train_data_yappy/train_videos/
+.idea/
+temp_downloads/
+database/
+train_data_yappy/
